@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_tamu" value="name:id_tamu;datatype:int,name:nama_tamu;datatype:string,name:nik;datatype:string,name:JK;datatype:string,name:no_hp;datatype:string,name:alamat;datatype:blob,name:username;datatype:string,name:password;datatype:string" />
+</info>
